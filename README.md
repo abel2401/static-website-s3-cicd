@@ -1,1 +1,1 @@
-# static-website-s3-cicd
+# launch-ec2-instance

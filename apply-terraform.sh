@@ -3,8 +3,8 @@
 # fail on any error
 set -eu
 
-# go back to the previous directory
-cd ..
+# go to live/module directory
+cd live/abel-s3-website
 
 # initialize terraform
 terraform init

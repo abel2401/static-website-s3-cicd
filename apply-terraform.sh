@@ -4,7 +4,7 @@
 set -eu
 
 # go to live/module directory
-cd live/abel-s3-website
+cd terraform-s3-website-master/live/abel-s3-website
 
 # initialize terraform
 terraform init

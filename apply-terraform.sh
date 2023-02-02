@@ -4,7 +4,7 @@
 set -eu
 
 # go back to the previous directory
-cd .. 
+cd live/abel-s3-website
 
 # initialize terraform
 terraform init
